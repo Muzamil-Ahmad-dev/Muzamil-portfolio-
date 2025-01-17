@@ -13,3 +13,67 @@
     width: 2em;
     height: 2em;
 }
+/* more theme */
+    /* Base styles */
+body {
+    font-family: Arial, sans-serif;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  
+  .light {
+    background-color: #ffffff;
+    color: #000000;
+  }
+  
+  .dark {
+    background-color: #121212;
+    color: #ffffff;
+  }
+  
+  .blue {
+    background-color: #1e3a8a;
+    color: #ffffff;
+  }
+  
+  .site__header {
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 1rem;
+    transition: background-color 0.3s ease;
+  }
+  
+  .site__header.dark {
+    background-color: #222;
+  }
+  
+  .site__header.blue {
+    background-color: #1e3a8a;
+  }
+  
+  .site__navigation {
+    background-color: #ffffff;
+    color: #000000;
+  }
+  
+  .site__navigation.dark {
+    background-color: #333;
+  }
+  
+  .site__navigation.blue {
+    background-color: #1e3a8a;
+  }
+  
+  /* Menu styles */
+  .the_menu {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .menu_item a {
+    color: inherit;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  /* Other specific styles can be adjusted for each theme */
+  
