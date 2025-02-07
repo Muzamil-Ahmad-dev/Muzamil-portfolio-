@@ -11,7 +11,7 @@ const introdata = {
         second: "I build cool websites",
         third: "I create interactive web apps",
     },
-    description: "I am a passionate Front-End Developer with expertise in HTML, CSS, JavaScript, Bootstrap, and React.js.",
+    description: "I am a passionate Full-Stack Developer with expertise in Front-End technologies like HTML, CSS, JavaScript, Bootstrap, and React.js. Additionally, I have strong skills in Back-End development, including SQL, MongoDB, and Next.js, allowing me to build dynamic, scalable, and efficient web applications ",
     your_img_url: "https://t3.ftcdn.net/jpg/09/71/69/36/360_F_971693657_Wrhuzbtfh6Qqdc2vc7IKp3aRXZmk9Ymu.jpg", // Replace this with your actual image URL
 };
 
@@ -55,6 +55,26 @@ const skills = [
         name: "Bootstrap",
         value: 80,
     },
+     {
+        name: "node.js",
+        value: 70,
+    },
+     {
+        name: "Next.js",
+        value: 70,
+    },
+     {
+        name: "Express.js",
+        value: 80,
+    },
+     {
+        name: "MongoDB",
+        value: 68,
+    },
+     {
+        name: "SQL",
+        value: 80,
+    },
 ];
 
 const services = [
@@ -81,7 +101,7 @@ const dataportfolio = [
     {
         img: "https://t3.ftcdn.net/jpg/09/71/69/36/360_F_971693657_Wrhuzbtfh6Qqdc2vc7IKp3aRXZmk9Ymu.jpg", // Replace with actual project image
         description: "Personal portfolio website showcasing web development projects.",
-        link: "https://muzamil-ahmad-dev.com", // Replace with your portfolio link
+        link: "https://muzamil-ahmad-dev.github.io/Muzamil-portfolio-/", // Replace with your portfolio link
     },
     {
         img: "https://assets.apk.live/com.resumemakerapp.cvmaker--47-icon.png", // Replace with actual project image link
