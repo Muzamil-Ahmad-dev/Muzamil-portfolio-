@@ -10,6 +10,8 @@
 
 # production
 /build
+git commit -m "Removed node_modules from repository"
+git push origin main
 
 # misc
 .DS_Store
