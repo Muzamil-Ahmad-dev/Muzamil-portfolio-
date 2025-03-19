@@ -69,7 +69,7 @@ const dataportfolio = [
         img: "https://assets.apk.live/com.resumemakerapp.cvmaker--47-icon.png",
         title: "Resume Builder App",
         description: "A resume builder app allowing users to create, edit, and export resumes in different formats.",
-        link: "https://example.com/resume-builder-app",
+        link: "https://muzamil-ahmad-dev.github.io/Resume-builder/",
         skills: ["React.js", "JavaScript", "CSS", "PDF Generation", "Redux"],
         role: "Full-Stack Developer",
         duration: "March 2023 - Present",
@@ -79,12 +79,7 @@ const dataportfolio = [
             "Designed a user-friendly experience with customization features."
         ],
         status: "In Progress"
-    },
-    {
-        img: "https://t3.ftcdn.net/jpg/09/71/69/36/360_F_971693657_Wrhuzbtfh6Qqdc2vc7IKp3aRXZmk9Ymu.jpg",
-        description: "Landing Page built with React and styled components.",
-        link: "https://muzamil-ahmad-dev.github.io/Landing-page",
-    },
+    }
 ];
 
 const contactConfig = {
