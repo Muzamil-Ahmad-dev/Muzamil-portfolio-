@@ -23,6 +23,11 @@ const dataabout = {
 
 const worktimeline = [
     {
+        jobtitle: "Front-End Developer Intern",
+        where: "AAA Digital",
+        date: "2023",
+    },
+    {
         jobtitle: "Full-Stack Developer (Freelancer)",
         where: "Self-Employed",
         date: "2022 - Present",
@@ -72,13 +77,19 @@ const dataportfolio = [
         link: "https://muzamil-ahmad-dev.github.io/Resume-builder/",
         skills: ["React.js", "JavaScript", "CSS", "PDF Generation", "Redux"],
         role: "Full-Stack Developer",
-        duration: "March 2023 - Present",
+        duration: "March 2024 - Present",
         keyAccomplishments: [
             "Implemented an intuitive resume creation interface with React.",
             "Integrated export features for PDF and DOC formats.",
             "Designed a user-friendly experience with customization features."
         ],
         status: "In Progress"
+    },
+    {
+        img: "https://cdn.prod.website-files.com/5b5729421aca332c60585f78/61ba1a76b86f7c0573e04541_tier-11-long-form-landing-page-example.png",
+        title: "Landing Page with React.js",
+        description: "Developed a modern and responsive landing page using React.js and styled components.",
+        link: "https://Muzamil-Ahmad-dev.github.io/Landing-page",
     }
 ];
 
