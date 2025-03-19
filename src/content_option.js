@@ -12,13 +12,8 @@ const introdata = {
         second: "I build cool websites",
         third: "I create interactive web apps",
     },
-<<<<<<< HEAD
-    description: "I am a passionate Full-Stack Developer with expertise in Front-End technologies like HTML, CSS, JavaScript, Bootstrap, and React.js. Additionally, I have strong skills in Back-End development, including SQL, MongoDB, and Next.js, allowing me to build dynamic, scalable, and efficient web applications ",
-    your_img_url: "https://t3.ftcdn.net/jpg/09/71/69/36/360_F_971693657_Wrhuzbtfh6Qqdc2vc7IKp3aRXZmk9Ymu.jpg", // Replace this with your actual image URL
-=======
     description: "I am a passionate Full-Stack Developer skilled in HTML, CSS, JavaScript, React.js, Node.js, Next.js, SQL, and MongoDB.",
     your_img_url: "https://t3.ftcdn.net/jpg/09/71/69/36/360_F_971693657_Wrhuzbtfh6Qqdc2vc7IKp3aRXZmk9Ymu.jpg",
->>>>>>> 72236ce (Updated portfolio: added full-stack experience and new projects)
 };
 
 const dataabout = {
@@ -40,48 +35,6 @@ const worktimeline = [
 ];
 
 const skills = [
-<<<<<<< HEAD
-    {
-        name: "HTML5",
-        value: 90,
-    },
-    {
-        name: "CSS3",
-        value: 85,
-    },
-    {
-        name: "JavaScript (ES6+)",
-        value: 80,
-    },
-    {
-        name: "React.js",
-        value: 75,
-    },
-    {
-        name: "Bootstrap",
-        value: 80,
-    },
-     {
-        name: "node.js",
-        value: 70,
-    },
-     {
-        name: "Next.js",
-        value: 70,
-    },
-     {
-        name: "Express.js",
-        value: 80,
-    },
-     {
-        name: "MongoDB",
-        value: 68,
-    },
-     {
-        name: "SQL",
-        value: 80,
-    },
-=======
     { name: "HTML5", value: 90 },
     { name: "CSS3", value: 85 },
     { name: "JavaScript (ES6+)", value: 80 },
@@ -91,7 +44,7 @@ const skills = [
     { name: "Bootstrap", value: 80 },
     { name: "SQL", value: 75 },
     { name: "MongoDB", value: 70 },
->>>>>>> 72236ce (Updated portfolio: added full-stack experience and new projects)
+    { name: "Express.js", value: 80 },
 ];
 
 const services = [
@@ -110,11 +63,7 @@ const dataportfolio = [
     {
         img: "https://t3.ftcdn.net/jpg/09/71/69/36/360_F_971693657_Wrhuzbtfh6Qqdc2vc7IKp3aRXZmk9Ymu.jpg",
         description: "Personal portfolio website showcasing web development projects.",
-<<<<<<< HEAD
-        link: "https://muzamil-ahmad-dev.github.io/Muzamil-portfolio-/", // Replace with your portfolio link
-=======
         link: "https://muzamil-ahmad-dev.github.io/Muzamil-portfolio-/",
->>>>>>> 72236ce (Updated portfolio: added full-stack experience and new projects)
     },
     {
         img: "https://assets.apk.live/com.resumemakerapp.cvmaker--47-icon.png",
