@@ -4,8 +4,11 @@
     "homepage": "https://muzamil-ahmad-dev.github.io/Muzamil-portfolio-",
     "private": true,
     "dependencies": {
+        "axios": "^1.5.0",
         "bootstrap": "^5.2.3",
+        "dotenv": "^16.3.1",
         "emailjs-com": "^3.2.0",
+        "prop-types": "^15.8.1",
         "react": "^18.2.0",
         "react-bootstrap": "^2.7.0",
         "react-dom": "^18.2.0",
@@ -14,6 +17,7 @@
         "react-router-dom": "^6.6.2",
         "react-scripts": "^5.0.1",
         "react-transition-group": "^4.4.2",
+        "sass": "^1.69.0",
         "typewriter-effect": "^2.18.2",
         "web-vitals": "^3.1.1"
     },
@@ -44,6 +48,8 @@
         ]
     },
     "devDependencies": {
-        "gh-pages": "^6.3.0"
+        "gh-pages": "^6.3.0",
+        "@testing-library/react": "^14.0.0",
+        "@testing-library/jest-dom": "^5.16.5"
     }
 }

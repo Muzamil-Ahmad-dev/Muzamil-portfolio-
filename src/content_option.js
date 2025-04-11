@@ -90,6 +90,21 @@ const dataportfolio = [
         title: "Landing Page with React.js",
         description: "Developed a modern and responsive landing page using React.js and styled components.",
         link: "https://Muzamil-Ahmad-dev.github.io/Landing-page",
+    },
+    {
+        img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdUwwZ6zo0_sljSw8_-o2k723r-cutuZc9lg&s",
+        title: "SkyRide eCommerce Store",
+        description: "An eCommerce website developed for a USA client. Built with a focus on performance, modern UI, and responsive design.",
+        link: "https://muzamil-ahmad-dev.github.io/skyride/",
+        skills: ["React.js", "Bootstrap", "JavaScript", "HTML", "CSS"],
+        role: "Front-End Developer",
+        duration: "Feb 2024 – March 2024",
+        keyAccomplishments: [
+            "Built an engaging and responsive eCommerce front-end.",
+            "Integrated shopping cart and product display components.",
+            "Collaborated with client to deliver business-specific features."
+        ],
+        status: "Completed"
     }
 ];
 
